@@ -1,9 +1,3 @@
-<div align="center">
-    
-# First-personal-project-
-
-</div>
-
 **English version**
 
 <div align="center">
