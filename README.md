@@ -150,7 +150,7 @@ In conclusion, until we discover what problem occurred and what caused it we can
 Algumas informações sobre o projeto: 
 
 + De onde obtive o conjunto de dados original?
-    - Eu peguei isso do site [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset).
+    - Eu peguei no site [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset).
 + Qual linguagem de programação e software de visualização foram utilizados?
     - Eu usei:  <div align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black).</div>
 
